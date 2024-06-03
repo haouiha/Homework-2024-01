@@ -1,7 +1,7 @@
 # Todo List API
 
 ```
-npm i
+npm install
 npm run build
 npm run start
 ```
